@@ -1,4 +1,5 @@
-📊 Desafio Alura Store: Análise de Eficiência Comercial
+#**📊 Desafio Alura Store: Análise de Eficiência Comercial**
+
 🎯 Objetivo do Projeto
 
 O objetivo desta análise foi auxiliar o Senhor João na tomada de decisão estratégica sobre qual das quatro unidades da Alura Store deve ser alienada para viabilizar um novo empreendimento. A decisão foi fundamentada em dados de faturamento, desempenho de vendas, logística e satisfação do cliente.
